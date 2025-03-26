@@ -1,0 +1,7 @@
+autogen
+streamlit
+datetime
+matplotlib
+pandas
+numpy
+yfinance
